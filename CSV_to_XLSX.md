@@ -68,9 +68,9 @@ Segue abaixo o código detalhado passo a passo:
 
 7. **Leitura do Arquivo CSV com o Pandas:**
    ```python
-   df = pd.read_csv(csv_path, encoding='latin1')
+   df = pd.read_csv(csv_path, encoding='utf8')
    ```
-   - `pd.read_csv(csv_path, encoding='latin1')`: Utiliza o Pandas para ler o arquivo CSV especificado em `csv_path` e armazena os dados em um DataFrame chamado `df`.
+   - `pd.read_csv(csv_path, encoding='utf8')`: Utiliza o Pandas para ler o arquivo CSV especificado em `csv_path` e armazena os dados em um DataFrame chamado `df`.
 
 8. **Geração do Nome do Arquivo XLSX e Caminho:**
    ```python
