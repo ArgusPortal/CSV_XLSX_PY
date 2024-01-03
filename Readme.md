@@ -22,9 +22,9 @@ Se você trabalha com dados e realiza tarefas repetitivas, considere a automaç�
 Conclusão:
 A automação é uma ferramenta poderosa para impulsionar a produtividade. Ao incorporar códigos Python em meu fluxo de trabalho, percebi uma melhoria significativa na eficiência e na qualidade dos resultados. Vamos explorar mais formas de otimizar nossas tarefas diárias e criar um ambiente de trabalho mais ágil e inovador.
 
-Utilizei ainda o Google Colab que já entrega de forma gratuita um ambiente em nuvem para desenvolvimento, similarmente ao famoso Jupyter Notebook.
+Utilizei ainda o **Google Colab** que já entrega de forma gratuita um ambiente em nuvem para desenvolvimento, similarmente ao famoso Jupyter Notebook.
 
-Este foi o meu contexto, mas a biblioteca Pandas é bastante versátil e poderá com certeza te ajudar de alguma forma.
+Este foi o meu contexto, mas a biblioteca **Pandas** é bastante versátil e poderá com certeza te ajudar de alguma forma.
 
 
 Segue abaixo o código detalhado passo a passo:
