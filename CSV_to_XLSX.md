@@ -1,6 +1,6 @@
 # CSV_XLSX_PY
 
-Título: Automatizando Processos e Otimizando Tarefas com Python 🚀
+Automatizando Processos e Otimizando Tarefas com Python 🚀
 
 Quero compartilhar com vocês uma ferramenta valiosa que desenvolvi recentemente para otimizar tarefas diárias utilizando a linguagem de programação Python. Automatizar processos pode ser a chave para um fluxo de trabalho mais eficiente e produtivo. No meu caso, utilizei códigos Python para simplificar a conversão de arquivos CSV para XLSX, uma tarefa que frequentemente consome tempo.
 
