@@ -141,3 +141,8 @@ Este segundo bloco de código complementa o primeiro, compactando a pasta de sa�
 Espero ter ajudado !
 
 Forte Abraço.
+
+![Animação](https://github.com/ArgusPortal/CSV_XLSX_PY/assets/104325734/50973056-b90c-4610-a8e2-08e0f06bb53a)
+
+
+
